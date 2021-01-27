@@ -1,2 +1,2 @@
-# react-webpack-babel
-Set up a basic ReactJS project
+# tabs
+Tabs with React
